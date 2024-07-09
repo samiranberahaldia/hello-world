@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1fmBtQup7mTDl_iR_E0xlPS3YaMFnCqe-
 """
 
-#pip install streamlit openai langchain-community langchain-core
+pip install streamlit openai langchain-community langchain-core
 
 import streamlit as st
 import openai
